@@ -9,5 +9,3 @@ build
 .settings
 libs
 build.properties
-*.apk
-dist
